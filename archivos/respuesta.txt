@@ -1,0 +1,1 @@
+Al crear solo la carpeta "archivos" no ocurrió nada, incluso en GitHub Desktop no apareció la creación de dicha carpeta
