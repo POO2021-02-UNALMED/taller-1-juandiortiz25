@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Juan Diego Ortiz Tabares
 19 años
 Espero poder profundizar más en mi desarrollo profesional con lo que pueda llegar a aprender a lo largo de la asignatura, que seguramente será un aspecto fundamental en mi vida laboral.
+=======
+De momento, no ocurrió nada relevante con la carpeta 'archivos' del repositorio al crear el archivo 'merge.txt'.
+>>>>>>> b1ffdeeb55400dd15637911921ca8ced0c7865b1
