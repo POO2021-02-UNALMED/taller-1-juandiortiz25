@@ -5,3 +5,5 @@ Espero poder profundizar más en mi desarrollo profesional con lo que pueda lleg
 =======
 De momento, no ocurrió nada relevante con la carpeta 'archivos' del repositorio al crear el archivo 'merge.txt'.
 >>>>>>> b1ffdeeb55400dd15637911921ca8ced0c7865b1
+
+Con lo que aprendí experimentalmente, es realmente importante evitar el modificar un archivo en ambos sitios al mismo tiempo, ya que esto podría implicar que se pierda información del archivo en alguno de los dos sitios, o este llegue a corromperse hasta tal punto de quedar obsoleto.
